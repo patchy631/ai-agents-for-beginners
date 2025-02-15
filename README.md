@@ -16,26 +16,27 @@
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
 
-## 🌐 Multi-Language Support
-
-| Language             | Code | Link to Translated README                               | Last Updated |
-|----------------------|------|---------------------------------------------------------|--------------|
-| Chinese (Simplified) | zh   | [Chinese Translation](./translations/zh/README.md)      | 2025-02-13   |
-| Chinese (Traditional)| tw   | [Chinese Translation](./translations/tw/README.md)      | 2025-02-13   |
-| Chinese (Hong Kong)  | hk   | [Chinese (Hong Kong) Translation](./translations/hk/README.md) | 2025-02-13   |
-| French               | fr   | [French Translation](./translations/fr/README.md)       | 2025-02-13   |
-| Japanese             | ja   | [Japanese Translation](./translations/ja/README.md)     | 2025-02-13   |
-| Korean               | ko   | [Korean Translation](./translations/ko/README.md)       | 2025-02-13   |
-| Portuguese           | pt   | [Portuguese Translation](./translations/pt/README.md)   | 2025-02-13   |
-| Spanish              | es   | [Spanish Translation](./translations/es/README.md)      | 2025-02-13   |
-| German               | de   | [German Translation](./translations/de/README.md)       | 2025-02-13   |
-
 
 ## 🌱 Getting Started
 
 This course has 10 lessons covering the fundamentals of building AI Agents. Each lesson covers its own topic so start wherever you like!
 
 If this is your first time building with Generative AI models. Check out our [Generative AI For Beginners](https://aka.ms/genai-beginners) course that has 21 lessons on building with GenAI.
+
+## 🗃️ Lessons
+
+| **Lesson**                            | **Link**                                   |
+|----------------------------------------|--------------------------------------------|
+| Intro to AI Agents and Use Cases       | [Link](./01-intro-to-ai-agents/README.md)          |
+| Exploring Agentic Frameworks           | [Link](./02-explore-agentic-frameworks/README.md)  |
+| Understanding Agentic Design Patterns  | [Link](./03-agentic-design-patterns/README.md)  |
+| Tool Use Design Pattern                | [Link](./04-tool-use/README.md)                    |
+| Agentic RAG                            | [Link](./05-agentic-rag/README.md)                 |
+| Building Trustworty AI Agents          | [Link](./06-building-trustworthy-agents/README.md) |
+| Planning Design Pattern                | [Link](./07-planning-design/README.md)             |
+| Multi-Agent Design Pattern             | [Link](./08-multi-agent/README.md)                 |
+| Metacognition Design Pattern           | [Link](./09-metacognition/README.md)               |
+| AI Agents in Production                | [Link](./10-ai-agents-production/README.md)        |
 
 ### To run the code of this course
 
@@ -68,20 +69,6 @@ If you get stuck or have any questions about bulding AI Agents, join our [Azure 
 - Python code samples supporting Azure AI Foundry and Github Models (Free)
 - Links to extra resources to continue your learning
 
-## 🗃️ Lessons
-
-| **Lesson**                            | **Link**                                   |
-|----------------------------------------|--------------------------------------------|
-| Intro to AI Agents and Use Cases       | [Link](./01-intro-to-ai-agents/README.md)          |
-| Exploring Agentic Frameworks           | [Link](./02-explore-agentic-frameworks/README.md)  |
-| Understanding Agentic Design Patterns  | [Link](./03-agentic-design-patterns/README.md)  |
-| Tool Use Design Pattern                | [Link](./04-tool-use/README.md)                    |
-| Agentic RAG                            | [Link](./05-agentic-rag/README.md)                 |
-| Building Trustworty AI Agents          | [Link](./06-building-trustworthy-agents/README.md) |
-| Planning Design Pattern                | [Link](./07-planning-design/README.md)             |
-| Multi-Agent Design Pattern             | [Link](./08-multi-agent/README.md)                 |
-| Metacognition Design Pattern           | [Link](./09-metacognition/README.md)               |
-| AI Agents in Production                | [Link](./10-ai-agents-production/README.md)        |
 
 ## 🎒 Other Courses
 
